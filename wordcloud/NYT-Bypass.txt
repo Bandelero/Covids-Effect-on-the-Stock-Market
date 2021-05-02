@@ -1,0 +1,10 @@
+A step by step guide wallthrough on how to access / read a NYT paywalled article
+
+Open the NYT article you want to read in incognito mode
+Open up your devtool console ([cmd][shift][j] on chrome/mac)
+Open up the devtools command prompt ([cmd][shift][P] on chrome/mac)
+Type in the command disable javascript into the command prompt, but don't hit enter
+Reload the page
+After the content loads but before the paywall appears, enter your disable javascript command
+If paywall persists, return to step 3. Otherwise, enjoy your free article.
+Happy reading!
